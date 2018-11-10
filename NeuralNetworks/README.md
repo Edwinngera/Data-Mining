@@ -1,0 +1,1 @@
+### Neural Networks Toy ModelTo get the datasets, please run the following commands:```$ cd tools/datasets$ ./get_datasets.sh```
