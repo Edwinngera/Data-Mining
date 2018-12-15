@@ -32,21 +32,21 @@ Data Mining Projects
     <td class="tg-0pky">Prediction</td>
     <td class="tg-0pky">Linear Regression; <br>Generalized Linear Model; </td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">GSP; <br>PrefixSpan; </td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">Frequent Pattern Mining</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Apriori; <br>FP Growth; </td>
-    <td class="tg-0pky">Dynamic Time Warping; </td>
+    <td class="tg-0pky">GSP; <br>PrefixSpan; </td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">Similarity Search</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Dynamic Time Warping; </td>
     <td class="tg-0pky"></td>
   </tr>
 </table>
